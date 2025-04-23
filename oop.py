@@ -84,5 +84,5 @@ for item in cart.items:
     print(item[0],"-", item[1] )
 
 total_qty=cart.calculate_total()
-print("Total Quantity:",total_qty)
+print("Total Quantity:")
 
